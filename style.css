@@ -1,0 +1,200 @@
+
+p
+{
+	font-size: 1.2em;
+}
+
+p
+{
+	font-family: Verdana, sans-serif;
+}
+
+h3
+{
+	font-family: sans-serif;
+}
+
+
+h1
+{
+	text-decoration: underline;
+}
+
+body
+{
+	background-color: #FFF;
+}
+
+}
+
+.up
+{
+	font-size: 0.7em;
+}
+
+.header {
+  display:grid;
+  grid-template-columns: 1fr;
+  background-color: #323232;
+  opacity: .97;
+  height: 2.7em;
+  width: 100%;
+  color: #FAFAFA;
+  text-align:center;
+  align-items:center;
+  position:fixed;
+}
+
+li {
+  padding-right: 3em;
+  padding-left: 3em;
+  display:inline;
+}
+
+li:hover {
+  color: #959595;
+}
+
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 400;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+}
+
+body {
+  background-color:#FAFAFA;
+  font-family:'San Francisco';
+  margin:0;
+  padding:0;
+}
+
+
+
+#x {
+  font-weight:900;
+  line-height: 6px;
+  font-size: 33px;
+}
+
+#xhello {
+  margin-top:.5em;
+  font-size: 1em;
+  font-weight:500;
+  font-size: 20px;
+}
+
+.xcontainer {
+  text-align:center;
+  color: #111111;
+  padding-top: 5.2em;
+}
+
+a
+{
+	text-decoration-line: none;
+	font-weight: 599.9;
+	padding-left: 1em;
+	color: #2247ba;
+	font-size: 1.3em;
+}
+
+.ycontainer {
+  text-align:center;
+  color: #111111;
+  padding-top: 7.1em;
+}
+
+#y {
+  font-size: 2.3em;
+  font-weight:900;
+}
+
+#yhello {
+  margin-top:.5em;
+  font-size: 1.5em;
+  font-weight:500;
+}
+
+.ocontainer {
+  text-align:center;
+  color: #111111;
+  padding-top: 3em;
+}
+
+#o {
+  font-size: 2.3em;
+  font-weight:900;
+}
+
+#ohello {
+  margin-top:.5em;
+  font-size: 1.5em;
+  font-weight:500;
+}
+
+.icontainer {
+  text-align:center;
+  color: #111111;
+  padding-top: 2.8em;
+}
+
+#i {
+  font-size: 2.3em;
+  font-weight:900;
+}
+
+#ihello {
+  margin-top:.5em;
+  font-size: 1.5em;
+  font-weight:500;
+}
+
+.macgrid {
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  grid-row-gap: 1em;
+  grid-column-gap: 1em;
+}
+
+/* ROW ONE */
+
+
+
+#imac {
+  margin-top: 3em;
+}
+
+
+
+
+#iphone8pic {
+  margin-top: 3em;
+  height: 469px;
+}
+
+
+
+
+
+
+.ipadpro {
+  text-align:center;
+}
+
+.taille
+{
+  width:  940px;
+  height: 445px;
+}
+
+.headtext {
+  font-size: 40px;
+  font-weight: 700;
+  padding-top:1.25em;
+}
+
+.subheadtext {
+  font-size: 20px;
+  font-weight: 200;
+}
+
